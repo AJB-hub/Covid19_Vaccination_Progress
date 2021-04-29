@@ -1,10 +1,19 @@
 # DataAnalyticsProject
 
-## Possible API options for project
+## Covid 19 World Vaccination Analysis Abstract
 
-1. Looking at how restaurants are affected by pandemic using the Yelp API Database / Gmaps 
-    * Store Closings vs gmaps location data
-    * What steps were taken by the stores to remain in buisness and how successful have they been
-    * what response measures were the most successful in their goal of preventing restaurants from going under
-    
-2. ...
+Identify what factors from the World Bank API database may correlate to vaccination rates in countries in the world. 
+
+## To do
+
+
+* Workflow Diagram for overall process
+* API request for World Bank Data
+* Global Heatmap for current vaccination progress(Long Term)
+* . . . 
+
+
+## Completed
+
+* Initial Data Cleaning for CSV
+* Extracted Vaccine Data from CSV file
