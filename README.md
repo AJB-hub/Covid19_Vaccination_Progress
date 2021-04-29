@@ -1,4 +1,3 @@
-# DataAnalyticsProject
 
 ## Covid 19 World Vaccination Analysis Abstract
 
