@@ -1,5 +1,7 @@
 
-## Covid 19 World Vaccination Analysis Abstract
+## Covid 19 World Vaccination Analysis 
+
+## Abstract
 
 Identify what factors from the World Bank API database may correlate to vaccination rates in countries in the world. 
 
