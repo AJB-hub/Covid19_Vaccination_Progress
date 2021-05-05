@@ -7,9 +7,8 @@ Identify what factors from the World Bank API database may correlate to vaccinat
 
 ## To do
 
-
-* Workflow Diagram for overall process
-* API request for World Bank Data
+* Identify relationship between indicators and vaccine progress
+* Perform statistical analysis on hypotheses
 * Global Heatmap for current vaccination progress(Long Term)
 * . . . 
 
@@ -18,3 +17,4 @@ Identify what factors from the World Bank API database may correlate to vaccinat
 
 * Initial Data Cleaning for CSV
 * Extracted Vaccine Data from CSV file
+* API request for World Bank Data
