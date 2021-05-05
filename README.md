@@ -7,10 +7,9 @@ Identify what factors from the World Bank API database may correlate to vaccinat
 
 ## To do
 
-* Identify relationship between indicators and vaccine progress
-* Perform statistical analysis on hypotheses
 * Global Heatmap for current vaccination progress(Long Term)
-* . . . 
+* Presentation Visual Components
+* Presentation Walkthrough
 
 
 ## Completed
@@ -18,3 +17,4 @@ Identify what factors from the World Bank API database may correlate to vaccinat
 * Initial Data Cleaning for CSV
 * Extracted Vaccine Data from CSV file
 * API request for World Bank Data
+* ANOVA testing on sample means for vaccinated population percentage by world bank indicators
