@@ -19,6 +19,7 @@ All data was extracted with pandas and merged into one working frame for analysi
 ## Analysis
 ### Best and Worst Performing Countries by vaccinated population
 <img src='./Resources/Output/bestandworst/bot5%.png'></img>
+
 <img src='./Resources/Output/bestandworst/top5%.png'></img>
 
 ### Clorepeth
