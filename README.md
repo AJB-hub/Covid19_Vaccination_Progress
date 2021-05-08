@@ -1,4 +1,4 @@
-
+<!DOCTYPE html>
 ## Covid 19 World Vaccination Analysis 
 
 ## Goals
