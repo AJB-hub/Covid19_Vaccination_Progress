@@ -22,8 +22,8 @@ All data was extracted with pandas and merged into one working frame for analysi
 
 <img src='./Resources/Output/bestandworst/top5%.png'></img>
 
-### Clorepeth
-
+### Choropleth
+<img src='./Resources/Output/Choropleth_Map/Pop_density_chloropleth_map.png></img>
 
 ### World Bank Global Development Indicators by Quartile
 #### GDP
